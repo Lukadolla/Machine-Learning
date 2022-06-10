@@ -1,0 +1,81 @@
+XOR with a Learning Rate of: 0.5 and Hidden Unit count of: 4
+
+===PRE-TRAINING TESTING===
+
+Multi Layered Perceptron Size: 2, 4, 1
+Epochs: 10000
+Learning Rate: 0.5
+
+Target: [0]	Output: [0.7727989163347481]
+Target: [1]	Output: [0.8065534697422782]
+Target: [1]	Output: [0.8274757454649351]
+Target: [0]	Output: [0.8520539057138086]
+
+===TRAINING===
+
+Epoch: 0	Error for Epoch: 0.5018155094499372
+Epoch: 200	Error for Epoch: 0.5103091677696348
+Epoch: 400	Error for Epoch: 0.5089601958084031
+Epoch: 600	Error for Epoch: 0.5078498060377488
+Epoch: 800	Error for Epoch: 0.5069213900579318
+Epoch: 1000	Error for Epoch: 0.5061250938916582
+Epoch: 1200	Error for Epoch: 0.5053839245349345
+Epoch: 1400	Error for Epoch: 0.5044728818011036
+Epoch: 1600	Error for Epoch: 0.5000231112007608
+Epoch: 1800	Error for Epoch: 0.4467096710732348
+Epoch: 2000	Error for Epoch: 0.38195051944501496
+Epoch: 2200	Error for Epoch: 0.3456009705311974
+Epoch: 2400	Error for Epoch: 0.30708021247838435
+Epoch: 2600	Error for Epoch: 0.2638533056253188
+Epoch: 2800	Error for Epoch: 0.23288199400494508
+Epoch: 3000	Error for Epoch: 0.2112215169309701
+Epoch: 3200	Error for Epoch: 0.14541871948519353
+Epoch: 3400	Error for Epoch: 0.11291069573550777
+Epoch: 3600	Error for Epoch: 0.09764024981623154
+Epoch: 3800	Error for Epoch: 0.08739138356302655
+Epoch: 4000	Error for Epoch: 0.07975345506351278
+Epoch: 4200	Error for Epoch: 0.0737427857242226
+Epoch: 4400	Error for Epoch: 0.06884339927187949
+Epoch: 4600	Error for Epoch: 0.06474785982054171
+Epoch: 4800	Error for Epoch: 0.061257811747834776
+Epoch: 5000	Error for Epoch: 0.058237981684813436
+Epoch: 5200	Error for Epoch: 0.05559221893804197
+Epoch: 5400	Error for Epoch: 0.05324992963388913
+Epoch: 5600	Error for Epoch: 0.051157903831703946
+Epoch: 5800	Error for Epoch: 0.04927514832644162
+Epoch: 6000	Error for Epoch: 0.04756949057898557
+Epoch: 6200	Error for Epoch: 0.046015274061771375
+Epoch: 6400	Error for Epoch: 0.04459175143250215
+Epoch: 6600	Error for Epoch: 0.043281937954466596
+Epoch: 6800	Error for Epoch: 0.04207177664906458
+Epoch: 7000	Error for Epoch: 0.04094951952469729
+Epoch: 7200	Error for Epoch: 0.039905261652239926
+Epoch: 7400	Error for Epoch: 0.03893058532834704
+Epoch: 7600	Error for Epoch: 0.03801828482103191
+Epoch: 7800	Error for Epoch: 0.03716215096586054
+Epoch: 8000	Error for Epoch: 0.03635680080661624
+Epoch: 8200	Error for Epoch: 0.03559754154870914
+Epoch: 8400	Error for Epoch: 0.03488026094118664
+Epoch: 8600	Error for Epoch: 0.034201338223151224
+Epoch: 8800	Error for Epoch: 0.03355757122289037
+Epoch: 9000	Error for Epoch: 0.032946116255651796
+Epoch: 9200	Error for Epoch: 0.03236443824507297
+Epoch: 9400	Error for Epoch: 0.031810269073362235
+Epoch: 9600	Error for Epoch: 0.03128157260159031
+Epoch: 9800	Error for Epoch: 0.03077651513261713
+
+===TESTING===
+
+Target: [0]	Output: [0.03433325028568668]
+Difference: [0.03433325]
+
+Target: [1]	Output: [0.9734893331690566]
+Difference: [0.02651067]
+
+Target: [1]	Output: [0.9684262204021835]
+Difference: [0.03157378]
+
+Target: [0]	Output: [0.028718915360819806]
+Difference: [0.02871892]
+
+Average difference: 0.03028415301881659
